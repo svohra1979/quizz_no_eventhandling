@@ -1,0 +1,3 @@
+step 1, sort the html add whatever needed wherever
+step 2, sort basic css only, sort js
+step 3, sort complete css
