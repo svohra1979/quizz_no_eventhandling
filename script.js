@@ -10,14 +10,14 @@ const quizData = [
     correctAnswer: "<h1>"
   },
   {
-    question: "Which tag is used for the biggest heading?",
-    options: ["<h6>", "<heading>", "<h1>"],
-    correctAnswer: "<h1>"
+    question: "Which tag is used for a paragraph?",
+    options: ["<p>", "<paragraph>", "<text>"],
+    correctAnswer: "<p>"
   },
   {
-    question: "Which tag is used for the biggest heading?",
-    options: ["<h6>", "<heading>", "<h1>"],
-    correctAnswer: "<h1>"
+    question: "Which language is used for styling web pages?",
+    options: ["HTML", "CSS", "JavaScript"],
+    correctAnswer: "CSS"
   }
   // add more questions here
 ]
